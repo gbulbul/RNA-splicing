@@ -1,0 +1,1 @@
+When a DNA string S is given with a collection of substrings of s acting as introns, this program is designed to remove the introns from the DNA string as its first job. This is followed by two tasks, namely, transcription ( mRNA is obtained) and translation (the 'unique' protein string is obtained).  
